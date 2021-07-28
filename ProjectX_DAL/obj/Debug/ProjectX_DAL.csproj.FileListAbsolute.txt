@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\ProjectX_SQL\ProjectX_DAL\obj\Debug\ProjectX_DAL.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ProjectX_SQL\ProjectX_DAL\bin\Debug\ProjectX_DAL.dll
+C:\Users\hp\source\repos\ProjectX_SQL\ProjectX_DAL\bin\Debug\ProjectX_DAL.pdb
+C:\Users\hp\source\repos\ProjectX_SQL\ProjectX_DAL\obj\Debug\ProjectX_DAL.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ProjectX_SQL\ProjectX_DAL\obj\Debug\ProjectX_DAL.dll
+C:\Users\hp\source\repos\ProjectX_SQL\ProjectX_DAL\obj\Debug\ProjectX_DAL.pdb
